@@ -1,0 +1,16 @@
+{
+  "name": "robot_elementx",
+  "version": "1.0.0",
+  "description": "Bot d'accueil pour salons Element X",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Djo",
+  "license": "ISC",
+  "dependencies": {
+    "matrix-bot-sdk": "^0.7.1"
+  }
+}
